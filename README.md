@@ -86,8 +86,8 @@ This application simplifies the analysis of Twitter data related to violence ext
 
 ## 🔗 Links
 
-- [YouTube Demo](https://youtu.be/vpvtZZi5ZWk?feature=shared)
-- [Project Repository](https://github.com/zulfiqarAlibalti/ai-newssummarizer)
+- [YouTube Demo](https://youtu.be/vpvtZZi5ZWk?feature)
+- [Project Repository](https://github.com/zulfiqarAlibalti/voilenceanalytics.git)
 
 ## 🛠️ Additional Notes
 
