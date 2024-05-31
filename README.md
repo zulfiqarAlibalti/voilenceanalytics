@@ -86,7 +86,7 @@ This application simplifies the analysis of Twitter data related to violence ext
 
 ## 🔗 Links
 
-- [YouTube Demo](https://youtu.be/vpvtZZi5ZWk?feature)
+- [YouTube Demo]()
 - [Project Repository](https://github.com/zulfiqarAlibalti/voilenceanalytics.git)
 
 ## 🛠️ Additional Notes
