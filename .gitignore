@@ -3,3 +3,5 @@ analytics_env/
 
 # Ignore all CSV files
 *.csv
+# Remove extra scripts
+main.py/
