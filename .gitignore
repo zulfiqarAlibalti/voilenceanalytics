@@ -1,0 +1,5 @@
+# Ignore the analytics_env directory
+analytics_env/
+
+# Ignore all CSV files
+*.csv
