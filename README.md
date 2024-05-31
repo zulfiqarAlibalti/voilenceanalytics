@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://youtu.be/vpvtZZi5ZWk?feature=shared" target="_blank">
-    <img src="./assets/img/project-banner.png" alt="Project Banner">
+    <img src="https://github.com/zulfiqarAlibalti/voilenceanalytics/blob/master/assets/img/project-banner.png" alt="Project Banner">
   </a>
   <br />
 
@@ -29,7 +29,7 @@
 
 This project is a comprehensive web application built with Dash and Flask, which analyzes Twitter data related to violence extremism. It includes functionalities like sentiment analysis, data visualization with Plotly, word cloud generation, and geolocation mapping. The data spans from 2012 to 2015 and offers insights into user activities, sentiment trends, and more.
 
-![Twitter Violence Extremism Data Analytics Demo](./assets/img/demo.gif)
+![Twitter Violence Extremism Data Analytics Demo](https://github.com/zulfiqarAlibalti/voilenceanalytics/blob/master/assets/img/demo.gif)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -70,8 +70,8 @@ This application simplifies the analysis of Twitter data related to violence ext
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/zulfiqarAlibalti/voilenceanalytics.git>
+    cd <voilenceanalytics>
     ```
 
 2. **Install the dependencies**:
